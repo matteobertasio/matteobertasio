@@ -1,7 +1,6 @@
 # Hi, I'm Matteo Bertasio 👋
 
 🎓 MSc Economics and Social Sciences @ Bocconi (2nd year) — Milan, IT  
-🎯 Objective: pre-doc → PhD in macroeconomics / international trade  
 📌 Interests: macro (dynamic theory, New Keynesian & neoclassical), monetary policy; trade; political economics  
 🧰 Stack: R · Python · Stata · LaTeX · MATLAB · Git
 
