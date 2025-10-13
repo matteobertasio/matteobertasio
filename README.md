@@ -11,7 +11,7 @@
 - **Class notes** — Advanced Math, Advanced Stats, Macro I (PhD), Econometrics, Macroeconometrics, Trade. [Repo](link)
 
 ## 🧪 Research & coding experience
-- **Power in the Pipeline** — with Massimo Morelli, Dominik Rohner, Andrea Tesei. *(Construction of the dataset / Theoretical support for modelling)*.
+- **Power in the Pipeline** — working Paper with Massimo Morelli, Dominik Rohner, Andrea Tesei. *(Construction of the dataset / Theoretical support for modelling)*.
 - **Economics of Public Procurement** — ZEW – Leibniz Centre for European Economic Research. *(Creation of analyses and relevant statistics for internal policy briefings)*.
 
 ## 🧩 Technical skills
