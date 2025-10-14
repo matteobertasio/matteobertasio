@@ -5,8 +5,8 @@
 🧰 Stack: R · Python · Stata · LaTeX · MATLAB · Git
 
 ## 📄 Coursework, Thesis & Notes
-- **Individual assignments** — Policy Evaluation, International Trade, Macroeconomics I (PhD), Econometrics, Macroeconometrics. [Repo](link) · [PDF](link)
-- **BSc thesis** — *Inequality-Driven Aversion to Globalization: Merging Empirical Trade Studies with a Model of Financial Disparity.* [Repo](link) · [PDF](link)
+- **Individual assignments** — Policy Evaluation, International Trade, Macroeconomics I (PhD), Econometrics, Macroeconometrics. [Repo]([link](https://github.com/matteobertasio/coursework))
+- **BSc thesis** — *Inequality-Driven Aversion to Globalization: Merging Empirical Trade Studies with a Model of Financial Disparity.* [Repo](link)
 - **Class notes** — Advanced Math, Advanced Stats, Macro I (PhD), Econometrics, Macroeconometrics, Trade. [Repo](link)
 
 ## 🧪 Research & coding experience
