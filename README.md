@@ -2,7 +2,7 @@
 
 🎓 MSc Economics and Social Sciences @ Bocconi (2nd year) — Milan, IT  
 📌 Interests: macro (dynamic theory, New Keynesian & neoclassical), monetary policy; trade; political economics  
-🧰 Stack: R · Python · Stata · LaTeX · MATLAB · Git
+🧰 Stack: Stata · LaTeX · MATLAB · Git
 
 ## 📄 Coursework, Thesis & Notes
 - **Individual assignments** — International Trade, Macroeconomics I (PhD), Econometrics, Macroeconometrics. [Repo](https://github.com/matteobertasio/coursework)
