@@ -7,7 +7,7 @@
 ## 📄 Coursework, Thesis & Notes
 - **Coursework assignments** — International Trade, Macroeconomics I (PhD), Econometrics, Macroeconometrics. [Repo](https://github.com/matteobertasio/coursework)
 - **BSc thesis** — *Inequality-Driven Aversion to Globalization: Merging Empirical Trade Studies with a Model of Financial Disparity.* ([PDF](https://github.com/matteobertasio/papers/blob/main/Matteo_Bertasio_BSc_Thesis.pdf))
-- **Individual projects** — *Dynare estimation of NKOE model with Rotemberg quadratic costs of price adjustment. IRFs for productivity and foreign demand stochastic shocks.* [Repo](link)
+- **Individual projects** — *Dynare estimation of NKOE model with Rotemberg quadratic costs of price adjustment. IRFs for productivity and foreign demand stochastic shocks.* [Repo](https://github.com/matteobertasio/individual_projects)
 
 ## 🧪 Research & coding experience
 - **Power in the Pipeline** — working Paper with Massimo Morelli, Dominik Rohner, Andrea Tesei. *(Construction of the dataset / Theoretical support for modelling)*.
