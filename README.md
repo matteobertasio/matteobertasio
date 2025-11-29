@@ -1,7 +1,7 @@
 # Hi, I'm Matteo Bertasio 👋
 
 🎓 MSc Economics and Social Sciences @ Bocconi (2nd year) — Milan, IT  
-📌 Interests: macro (dynamic theory, New Keynesian & neoclassical), monetary policy; trade; political economics  
+📌 Interests: macro (dynamic theory, DSGE, New Keynesian, heterogeneous agents), monetary policy; trade; applied political economics  
 🧰 Stack: Stata · LaTeX · MATLAB · Dynare
 
 ## 📄 Coursework, Thesis & Notes
