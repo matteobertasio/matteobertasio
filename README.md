@@ -5,7 +5,7 @@
 🧰 Stack: Stata · LaTeX · MATLAB · Dynare
 
 ## 📄 Coursework, Thesis & Notes
-- **Coursework assignments** — International Trade, Macroeconomics I (PhD), Econometrics, Macroeconometrics. [Repo](https://github.com/matteobertasio/coursework)
+- **Coursework assignments** — International Trade, Macroeconomics I (PhD), Econometrics, Macroeconometrics, Time Series Analysis. [Repo](https://github.com/matteobertasio/coursework)
 - **BSc thesis** — *Inequality-Driven Aversion to Globalization: Merging Empirical Trade Studies with a Model of Financial Disparity.* ([PDF](https://github.com/matteobertasio/papers/blob/main/Matteo_Bertasio_BSc_Thesis.pdf))
 - **Individual projects** — *Dynare estimation of NKOE model with Rotemberg quadratic costs of price adjustment. IRFs for productivity and foreign demand stochastic shocks.* [Repo](https://github.com/matteobertasio/individual_projects)
 
